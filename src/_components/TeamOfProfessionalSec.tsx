@@ -14,7 +14,7 @@ const TeamOfProfessionalSec = () => {
       <div className="flex flex-col gap-8 poppins-medium w-[734px]">
         <h2 className="text-[22px] uppercase poppins-medium ">Team of professionalsis waiting for you</h2>
         <ul className="text-[18px] list-disc ml-10 poppins-regular  leading-[27px] tracking-[1px] ">
-          <li className="w-[694px]">
+          <li className="w-[694px] text-justify">
             At MAS, we understand the importance of the basics. That’s why we
             focus on delivering essential clothing items that form the
             foundation of any wardrobe. From T-shirts to Tank Tops, our products
@@ -22,14 +22,14 @@ const TeamOfProfessionalSec = () => {
             of Mishael International Inc., we leverage decades of industry
             experience to bring you the best in basic apparel.
           </li>
-          <li className="w-[694px]">
+          <li className="w-[694px] text-justify">
             That’s why we focus on delivering essential clothing items that form
             the foundation of any wardrobe. From T-shirts to Tank Tops, our
             products are designed for comfort, quality, and versatility. As a
             subsidiary of Mishael International Inc., we leverage decades of
             industry experience to bring you the best in basic apparel.
           </li>
-          <li className="w-[694px]">
+          <li className="w-[694px] text-justify">
             That’s why we focus on delivering essential clothing items that form
             the foundation of any wardrobe. From T-shirts to Tank Tops, our
             products are designed for comfort, quality, and versatility. As a
