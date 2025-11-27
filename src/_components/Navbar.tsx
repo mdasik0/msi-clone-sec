@@ -23,7 +23,7 @@ const Navbar = () => {
             </ul>
             <div className='flex items-center gap-6'>
 
-            <button className='uppercase bg-[#9A0E20] text-white rounded px-4 py-1.5 text-[14px]'>contact us</button>
+            <button className='uppercase bg-[#9A0E20] text-white rounded px-4 py-2 text-[14px]'>contact us</button>
             <div className='text-[24px] w-10 h-10 grid items-center' onClick={() => setDarkMode(!darkMode)}>
               {
                 !darkMode ? <FaMoon className='text-black' /> :<FaSun className='text-white' />
